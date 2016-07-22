@@ -17,9 +17,9 @@ Language & Text (International in 10.5 and earlier) module within System Prefere
 
 If you want Lithuanian letters with alt + key - use command:
 
-    wget -O ~/Library/Keyboard\ Layouts/US-Lithuanian.keylayout https://raw.githubusercontent.com/mariusgrigaitis/US-Lithuanian-Keyboard/master/US-Lithuanian.keylayout
+    wget -O ~/Library/Keyboard\ Layouts/US-Lithuanian.keylayout https://raw.githubusercontent.com/msiliunas/US-Lithuanian-Keyboard/master/US-Lithuanian.keylayout
 
 If you prefer numbers with alt + key - use (it will be named Lithuanian (Lithuanian keyboard with numbers) in Input Sources):
 
-    wget -O ~/Library/Keyboard\ Layouts/US-Lithuanian-Alt-Numbers.keylayout https://raw.githubusercontent.com/mariusgrigaitis/US-Lithuanian-Keyboard/master/US-Lithuanian-Alt-Numbers.keylayout
+    wget -O ~/Library/Keyboard\ Layouts/US-Lithuanian-Alt-Numbers.keylayout https://raw.githubusercontent.com/msiliunas/US-Lithuanian-Keyboard/master/US-Lithuanian-Alt-Numbers.keylayout
 

@@ -15,5 +15,11 @@ These may be installed by copying them to the Keyboard Layouts folder within /Li
 then they are enabled via the Input Sources (Input in 10.5 and earlier) tab of the
 Language & Text (International in 10.5 and earlier) module within System Preferences.
 
+If you want Lithuanian letters with alt + key - use command:
+
     wget -O ~/Library/Keyboard\ Layouts/US-Lithuanian.keylayout https://raw.githubusercontent.com/mariusgrigaitis/US-Lithuanian-Keyboard/master/US-Lithuanian.keylayout
+
+If you prefer numbers with alt + key - use (it will be named Lithuanian (Lithuanian keyboard with numbers) in Input Sources):
+
+    wget -O ~/Library/Keyboard\ Layouts/US-Lithuanian-Alt-Numbers.keylayout https://raw.githubusercontent.com/mariusgrigaitis/US-Lithuanian-Keyboard/master/US-Lithuanian-Alt-Numbers.keylayout
 
